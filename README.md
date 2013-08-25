@@ -7,7 +7,8 @@
 
 <h3>Demos</h3>
 http://kptl.co/z.js/blog-demo.php<br/>
-http://kptl.co/z.js/website.php
+http://kptl.co/z.js/website.php<br/>
+http://kptl.co/z.js/mailto-links.php
 
 <h3>Changelog/Usage</h3>
 
