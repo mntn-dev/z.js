@@ -1,12 +1,12 @@
-<img height="125" width="125" src="http://mn.tn/dev/z.js/z.js.png" alt=""/>
+<img height="125" width="125" src="https://mn.tn/dev/z.js/z.js.png" alt=""/>
 
-<h2><a href="http://mn.tn/dev/z.js">z.js</a>&mdash;turns content (in)visible*</h2>
+<h2><a href="https://mn.tn/dev/z.js">z.js</a>&mdash;turns content (in)visible*</h2>
 *using Unicode's ZW(N)Js <small>(\u200c, \u200d)</small>
 
 
 <h3>Demos</h3>
-http://mn.tn/dev/z.js/blog-demo.php<br/>
-http://mn.tn/dev/z.js/website.php (See source)<br/>
+https://mn.tn/dev/z.js/blog-demo.php<br/>
+https://mn.tn/dev/z.js/website.php (See source)<br/>
 
 
 <h3>Changelog/Usage</h3>
