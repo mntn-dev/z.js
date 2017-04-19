@@ -15,12 +15,10 @@ https://mn.tn/dev/z.js/website.php (See source)<br/>
 /*
 
 CHANGELOG
-0.2 (July 2013)
-* dropped 'ASCII-mode' (tabs (\t) and spaces (\x20) instead of Unicode's ZW(N)Js)
-* added 'Parts-mode'; 2nd char in MASK param
-* header changed; old: "&lt;!----&gt;", new: \x00\x00\x00\x00\xff\xff\xff\xff
-
-
+0.3 (Sept 2015)
+* Add AMD Loader and Node.js support (define and require)
+* Export RC4 function too
+* Beautify code
 
 z.js(DAT [, PWD=false, MSK/RAW=false])
 
