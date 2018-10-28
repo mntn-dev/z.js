@@ -1,9 +1,9 @@
 <?
 
 
-/*z.php-0.2;(c)2013 KPTL Co. <http://kptl.co/> c/o Benjamin Lips <b--AT--kptl.co>;
+/*z.php-0.2;(c)2013 Mntn(r) <http://mn.tn/> c/o Benjamin Lips <g--AT--mn.tn>;
 Licensed under the MIT License <http://mit-license.org/>;
-For documentation see https://github.com/kptl-co/z.js or http://kptl.co/z.js*/
+For documentation, see https://mntn-dev.github.io/z.js/*/
 
 
 
