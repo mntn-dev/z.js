@@ -1,3 +1,4 @@
+<a href="https://data.jsdelivr.com/v1/package/gh/mntn-dev/z.js/badge?style=rounded"><img src="https://data.jsdelivr.com/v1/package/gh/mntn-dev/z.js/badge?style=rounded" alt=""/></a><br/><br/>
 <img src="https://mntn-dev.github.io/z.js/z.js.png" height="350" width="350"/>
 
 Docs/demos
